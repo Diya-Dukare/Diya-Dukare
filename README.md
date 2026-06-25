@@ -1,8 +1,8 @@
-# Hi there, I'm Diya Dukare👋<img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
+# Hi there, I'm Diya Dukare👋
 
 ## AI & Data Science Engineering Student
 
-# 💫 About Me:
+# <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> About Me:
 🔭 I’m currently working on building AI & Data Science projects while expanding my technical skills.<br><br>👯 I’m looking to collaborate on innovative projects that create real-world impact.<br><br>🤝 I’m looking for help with advanced Machine Learning concepts and open-source contributions.<br><br>🌱 I’m currently learning DSA, C++, Machine Learning, and Product Development.<br><br>💬 Ask me about AI, Data Science, Space Science, Startups, and Technology.<br><br>⚡ Fun fact: When I'm not coding, you'll probably find me exploring space-related topics or brainstorming new ideas. ✨<br>
 
 
