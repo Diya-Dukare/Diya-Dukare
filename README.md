@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Diya Dukare👋
 
-<!--
-**Diya-Dukare/Diya-Dukare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Data Science Engineering Student
 
-Here are some ideas to get you started:
+I'm passionate about leveraging technology to solve real-world problems and create meaningful impact. My interests lie at the intersection of Artificial Intelligence, Data Science, Space Technology, Entrepreneurship, and Innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building projects, participating in hackathons, and exploring ideas that have the potential to shape the future.
+
+##  Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Software Development
+- Space Science & Technology
+- Entrepreneurship & Product Development
+- Emerging Technologies
+
+##  Currently Learning
+- Data Structures & Algorithms
+- C++ & Object-Oriented Programming
+- Artificial Intelligence & Machine Learning
+- Software Development Practices
+- Product Development & Startup Fundamentals
+
+##  Goals
+- Build technology that creates a positive impact
+- Contribute to innovative AI and space-tech initiatives
+- Develop solutions that solve meaningful challenges
+- Gain industry experience through internships and projects
+- Continuously learn, grow, and innovate
+
+##  Beyond Technology
+I enjoy exploring new ideas, collaborating with like-minded people, participating in hackathons, and turning curiosity into practical solutions.
+
+> ✨ *"Curiosity fuels innovation, and persistence transforms possibilities into achievements."*
+
+📫 Open to collaboration, learning opportunities, and exciting projects.
