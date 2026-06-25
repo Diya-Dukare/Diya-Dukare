@@ -3,7 +3,7 @@
 ## AI & Data Science Engineering Student
 
 # About Me:
-I’m currently working on building AI & Data Science projects while expanding my technical skills.<br><br> I’m looking to collaborate on innovative projects that create real-world impact.<br><br> I’m looking for help with advanced Machine Learning concepts and open-source contributions.<br><br> I’m currently learning DSA, C++, Machine Learning, and Product Development. Ask me about AI, Data Science, Space Science, Startups, and Technology.<br><br> Fun fact: When I'm not coding, you'll probably find me exploring space-related topics or brainstorming new ideas. ✨<br>
+I’m currently working on building AI & Data Science projects while expanding my technical skills. I’m looking to collaborate on innovative projects that create real-world impact. I’m looking for help with advanced Machine Learning concepts and open-source contributions. I’m currently learning DSA, C++, Machine Learning, and Product Development. Ask me about AI, Data Science, Space Science, Startups, and Technology. Fun fact: When I'm not coding, you'll probably find me exploring space-related topics or brainstorming new ideas. ✨<br>
 
 
 ## 🌐 Socials:
