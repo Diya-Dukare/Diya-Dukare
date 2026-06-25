@@ -11,7 +11,8 @@ I’m currently working on building AI & Data Science projects while expanding m
 
 
 <div align="center">
-https://github.com/Diya-Dukare/Diya-Dukare/blob/6505ce94a090ff34fbc008b62fc26ce987bc9ea3/example.gif
+<img width="860" height="230" alt="example (1)" src="https://github.com/user-attachments/assets/64baae1b-e71d-460c-9a62-0c6578f2b968" />
+
 
 </div>
 
