@@ -1,5 +1,7 @@
-# Hi there, I'm Diya Dukare <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+# Hi there, I'm Diya Dukare<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 <br><br>
+
+
 <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
 ## AI & Data Science Engineering Student
@@ -40,7 +42,7 @@
 
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 <br><br>
 
 
@@ -51,8 +53,8 @@ I enjoy exploring new ideas, collaborating with like-minded people, participatin
 
 📫 Open to collaboration, learning opportunities, and exciting projects.
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 <br><br>
-
 
 
