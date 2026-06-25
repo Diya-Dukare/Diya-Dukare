@@ -11,7 +11,7 @@ I’m currently working on building AI & Data Science projects while expanding m
 
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+![mxj_files-rocket-26383_512](https://github.com/Diya-Dukare/Diya-Dukare/blob/4adaf41b2ed91232be2b2812a9e560c107569a43/mxj_files-rocket-26383_512.gif)
 </div>
 
 
