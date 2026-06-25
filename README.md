@@ -30,7 +30,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+![Cover Picture](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
 
 ##  Beyond Technology
 I enjoy exploring new ideas, collaborating with like-minded people, participating in hackathons, and turning curiosity into practical solutions.
