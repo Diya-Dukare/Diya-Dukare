@@ -11,7 +11,8 @@ I’m currently working on building AI & Data Science projects while expanding m
 
 
 <div align="center">
-<img https://github.com/Diya-Dukare/Diya-Dukare/blob/4adaf41b2ed91232be2b2812a9e560c107569a43/mxj_files-rocket-26383_512.gi](https://pixabay.com/gifs/rocket-space-spaceship-fly-flight-26383>
+<img width="512" height="512" alt="mxj_files-rocket-26383_512" src="https://github.com/user-attachments/assets/293114aa-02bf-4877-87ba-10f7a136c782" />
+
 </div>
 
 
