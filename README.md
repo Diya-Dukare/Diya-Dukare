@@ -11,7 +11,7 @@ I’m currently working on building AI & Data Science projects while expanding m
 
 
 <div align="center">
-<img width="512" height="512" alt="mxj_files-rocket-26383_512" src="https://github.com/user-attachments/assets/293114aa-02bf-4877-87ba-10f7a136c782" />
+<img width="512" height="384" alt="raniramli-galaxy-3468_512" src="https://github.com/user-attachments/assets/a3106785-e7c3-417f-bca4-76735e761239" />
 
 </div>
 
