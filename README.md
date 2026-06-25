@@ -31,8 +31,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diya-Dukare&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-<br><br>
 
 
 ---
@@ -49,3 +47,7 @@ I enjoy exploring new ideas, collaborating with like-minded people, participatin
 > ✨ *"Curiosity fuels innovation, and persistence transforms possibilities into achievements."*
 
 📫 Open to collaboration, learning opportunities, and exciting projects.
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<br><br>
+
