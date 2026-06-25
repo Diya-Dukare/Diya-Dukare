@@ -38,8 +38,11 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
+
 
 ##  Beyond Technology
 I enjoy exploring new ideas, collaborating with like-minded people, participating in hackathons, and turning curiosity into practical solutions.
