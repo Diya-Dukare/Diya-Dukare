@@ -7,7 +7,7 @@ I’m currently working on building AI & Data Science projects while expanding m
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyaa.shines) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-dukare-0788aa307) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/diyaahhhemo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Octobersky700) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dukarediya07@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diyaa.shines) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-dukare-0788aa307)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Octobersky700) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dukarediya07@gmail.com) 
 
 
 <div align="center">
