@@ -1,8 +1,4 @@
-# Hi there, I'm Diya Dukare<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-<br><br>
-
-
-<img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
+# Hi there, I'm Diya Dukare <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
 ## AI & Data Science Engineering Student
 
