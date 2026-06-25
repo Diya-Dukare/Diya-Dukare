@@ -1,4 +1,4 @@
-# Hi there, I'm Diya Dukare👋
+# Hi there, I'm Diya Dukare👋<img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
 ## AI & Data Science Engineering Student
 
