@@ -34,9 +34,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Diya-Dukare&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Cover Picture](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
+
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+<br><br>
 
 ##  Beyond Technology
 I enjoy exploring new ideas, collaborating with like-minded people, participating in hackathons, and turning curiosity into practical solutions.
